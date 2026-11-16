@@ -2,7 +2,7 @@
   <img src="logo/BOSSOK (1).png" width="225">
 </p>
 
-Budapest látványosságai
+<h1>Budapest látványosságai</h1>
 
 BOSSOK Team
 
