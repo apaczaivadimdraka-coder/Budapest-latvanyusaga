@@ -1,13 +1,13 @@
 <h1>Projektmenedzsment – BOSSOK</h1>
 
 1. Projekt adatai
-
+<h2></h2>
 - Projekt neve: Budapest látványosságai
 - Csapat neve: BOSSOK
 - Szlogen: Discover the Past. Shape the Future.
 - Magyarul: Fedezd fel a múltat. Formáld a jövőt.
 - 
-2. Csapattagok
+<h2>2. Csapattagok</h2>
 
 | Név | Feladat |
 |---|---|
@@ -15,11 +15,11 @@
 | Nagy Roland | Kutatás |
 | Papp Bertalan | Kutatás |
 
-3. Projekt célja
+<h2>3. Projekt célja</h2>
 
 Budapest történelmi látványosságainak bemutatása, történelmük, jelenlegi állapotuk és érdekességeik elemzése.
 
-4. Projekt feladatai
+<h2>4. Projekt feladatai</h2>
 
 - Csapatnév és szlogen létrehozása.
 - Logó megtervezése.
@@ -27,7 +27,7 @@ Budapest történelmi látványosságainak bemutatása, történelmük, jelenleg
 - Prezentáció elkészítése.
 - Maximum 10 perces videó elkészítése.
   
-5. Ütemezés
+<h2>5. Ütemezés</h2>
 
 | Időszak | Feladat |
 |---|---|
@@ -36,7 +36,7 @@ Budapest történelmi látványosságainak bemutatása, történelmük, jelenleg
 | Következő szakasz | Prezentáció elkészítése |
 | Utolsó szakasz | Videó elkészítése |
 
-6. Projekt állapota
+<h2>6. Projekt állapota</h2>
 
 Jelenlegi állapot: Folyamatban
 
@@ -54,7 +54,7 @@ Tervezett:
 - Prezentáció elkészítése
 - Videó elkészítése
 - 
-7. Használt eszközök
+<h2>7. Használt eszközök</h2>
 
 - GitHub
 - Google Slides
