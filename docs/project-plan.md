@@ -9,10 +9,10 @@ Projektmenedzsment – BOSSOK
 - 
 2. Csapattagok
 
-Név| Feladat
-Draka Vadim| Projektmenedzsment, kutatás
-Nagy Roland| Kutatás
-Papp Bertalan| Kutatás
+Név           Feladat
+Draka Vadim   Projektmenedzsment, kutatás
+Nagy Roland   Kutatás
+Papp Bertalan Kutatás
 
 3. Projekt célja
 
