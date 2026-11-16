@@ -58,5 +58,5 @@ Tervezett:
 
 - GitHub
 - Google Slides
-- GIMP / Adobe Photoshop
+- GIMP / Photopea
 - Videószerkesztő
