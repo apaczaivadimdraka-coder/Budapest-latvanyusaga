@@ -9,10 +9,11 @@ Projektmenedzsment – BOSSOK
 - 
 2. Csapattagok
 
-Név           Feladat
-Draka Vadim   Projektmenedzsment, kutatás
-Nagy Roland   Kutatás
-Papp Bertalan Kutatás
+| Név | Feladat |
+|---|---|
+| Draka Vadim | Projektmenedzsment, kutatás |
+| Nagy Roland | Kutatás |
+| Papp Bertalan | Kutatás |
 
 3. Projekt célja
 
@@ -28,11 +29,12 @@ Budapest történelmi látványosságainak bemutatása, történelmük, jelenleg
   
 5. Ütemezés
 
-Időszak| Feladat
-November 16–20.| Csapatnév, szlogen és logó
-Következő szakasz| Kutatás és elemzés
-Következő szakasz| Prezentáció
-Utolsó szakasz| Videó
+| Időszak | Feladat |
+|---|---|
+| November 16–20. | Csapatnév, szlogen és logó |
+| Következő szakasz | Kutatás és elemzés |
+| Következő szakasz | Prezentáció elkészítése |
+| Utolsó szakasz | Videó elkészítése |
 
 6. Projekt állapota
 
