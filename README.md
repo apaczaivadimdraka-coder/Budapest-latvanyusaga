@@ -30,11 +30,12 @@ Csapattagok
 
 Projekt ütemezése
 
-- Időszak| Feladat
-- November 16–20.| Csapatnév, szlogen és logó
-- Következő szakasz| Kutatás és elemzés
-- Következő szakasz| Prezentáció elkészítése
-- Utolsó szakasz| Videó elkészítése
+| Időszak | Feladat |
+|---|---|
+| November 16–20. | Csapatnév, szlogen és logó |
+| Következő szakasz | Kutatás és elemzés |
+| Következő szakasz | Prezentáció elkészítése |
+| Utolsó szakasz | Videó elkészítése |
 
 Használt eszközök
 
