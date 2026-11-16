@@ -1,1 +1,52 @@
-# Budapest-latvanyusaga
+Budapest látványosságai
+
+BOSSOK Team
+
+Szlogen: Discover the Past. Shape the Future.
+Magyarul: Fedezd fel a múltat. Formáld a jövőt.
+
+
+A projektről
+
+A projekt célja Budapest történelmi és kulturális látványosságainak bemutatása és elemzése.
+
+Projekt céljai
+
+- Budapest híres látványosságainak kutatása.
+- Történelmi események megismerése.
+- Érdekességek bemutatása.
+- Prezentáció készítése Google Diákban.
+- Egy maximum 10 perces videó elkészítése.
+
+👥 Csapattagok
+
+- Draka Vadim
+- Nagy Roland
+- Papp Bertalan
+
+Projekt ütemezése
+
+Időszak| Feladat
+November 16–20.| Csapatnév, szlogen és logó
+Következő szakasz| Kutatás és elemzés
+Következő szakasz| Prezentáció elkészítése
+Utolsó szakasz| Videó elkészítése
+
+Használt eszközök
+
+- GitHub – projektmenedzsment és dokumentáció
+- Google Slides – prezentáció
+- GIMP / Adobe Photoshop – logótervezés
+- Videószerkesztő – videó elkészítése
+
+📂 Projekt felépítése
+
+- "docs/" – Dokumentáció
+- "logo/" – Csapatlogó
+- "presentation/" – Prezentáció
+- "video/" – Videó és forgatókönyv
+
+
+BOSSOK – Discover the Past. Shape the Future.
+
+Fedezd fel a múltat. Formáld a jövőt.
