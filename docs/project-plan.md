@@ -1,7 +1,7 @@
 <h1>Projektmenedzsment – BOSSOK</h1>
 
-1. Projekt adatai
-<h2></h2>
+<h2>1. Projekt adatai</h2>
+
 - Projekt neve: Budapest látványosságai
 - Csapat neve: BOSSOK
 - Szlogen: Discover the Past. Shape the Future.
@@ -53,7 +53,7 @@ Tervezett:
 - Történelmi kutatás
 - Prezentáció elkészítése
 - Videó elkészítése
-- 
+  
 <h2>7. Használt eszközök</h2>
 
 - GitHub
