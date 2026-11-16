@@ -6,7 +6,7 @@ Projektmenedzsment – BOSSOK
 - Csapat neve: BOSSOK
 - Szlogen: Discover the Past. Shape the Future.
 - Magyarul: Fedezd fel a múltat. Formáld a jövőt.
-
+- 
 2. Csapattagok
 
 Név| Feladat
@@ -25,11 +25,11 @@ Budapest történelmi látványosságainak bemutatása, történelmük, jelenleg
 - Történelmi kutatás.
 - Prezentáció elkészítése.
 - Maximum 10 perces videó elkészítése.
-
+  
 5. Ütemezés
 
 Időszak| Feladat
-November 16–20.| Csapatnév, szlogen, logó
+November 16–20.| Csapatnév, szlogen és logó
 Következő szakasz| Kutatás és elemzés
 Következő szakasz| Prezentáció
 Utolsó szakasz| Videó
