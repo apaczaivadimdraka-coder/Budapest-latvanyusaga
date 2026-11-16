@@ -1,13 +1,19 @@
-Források – BOSSOK
 
-Felhasznált források
+# Sources
 
-A projekt során felhasznált weboldalak, könyvek és egyéb információforrások listája.
+## Research sources
 
-Weboldalak
+- Parlament: https://www.parlament.hu/
+- Budai Vár: https://mnm.hu/
+- Széchenyi Lánchíd: https://www.budapestinfo.hu/
+- Hősök tere: https://www.budapestinfo.hu/
+- Szent István-bazilika: https://bazilikabudapest.hu/
 
-- A kutatás során kerülnek hozzáadásra.
+## Image sources
 
-Képek és egyéb anyagok
+- https://commons.wikimedia.org/
 
-- A felhasznált képek és anyagok forrásai később kerülnek dokumentálásra.
+---
+
+**Project:** Budapest történelmi látványosságai  
+**Team:** BOSSOK
