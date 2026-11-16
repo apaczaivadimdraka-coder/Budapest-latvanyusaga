@@ -37,18 +37,6 @@ Budapest történelmi látványosságainak kutatása, elemzése és bemutatása.
 | Következő szakasz | Prezentáció elkészítése |
 | Utolsó szakasz | Videó elkészítése |
 
-## 5. Feladatok állapota
-
-| Feladat | Állapot |
-|---|---|
-| Csoportnév kiválasztása | Kész |
-| Szlogen megalkotása | Kész |
-| Logó megtervezése | Folyamatban |
-| GitHub-dokumentáció | Folyamatban |
-| Kutatás és elemzés | Tervezett |
-| Prezentáció | Tervezett |
-| Videó | Tervezett |
-
 ## 6. Elvárt eredmények
 
 - Egyedi csoportnév, szlogen és logó.
