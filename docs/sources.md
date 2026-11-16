@@ -12,6 +12,8 @@
 ## Image sources
 
 - https://commons.wikimedia.org/
+- https://www.pinterest.com/
+- https://www.google.com/
 
 ---
 
