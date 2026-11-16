@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="logo/BOSSOK (1).png" width="225">
-</p>
+
 
 <div align="center">
+  
+<img src="logo/BOSSOK (1).png" width="180" alt="BOSSOK Logo">
 
 # BOSSOK
 
