@@ -15,12 +15,12 @@ A projektről
 A projekt célja Budapest történelmi és kulturális látványosságainak bemutatása és elemzése.
 
 Projekt céljai
-
+<li>
 - Budapest híres látványosságainak kutatása.
 - Történelmi események megismerése.
 - Érdekességek bemutatása.
 - Prezentáció készítése Google Diákban.
-- Maximum 10 perces videó elkészítése.
+- Maximum 10 perces videó elkészítése. </li>
 
 Csapattagok
 
