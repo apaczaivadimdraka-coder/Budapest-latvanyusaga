@@ -3,8 +3,8 @@ Budapest látványosságai
 BOSSOK Team
 
 Szlogen: Discover the Past. Shape the Future.
-Magyarul: Fedezd fel a múltat. Formáld a jövőt.
 
+Magyarul: Fedezd fel a múltat. Formáld a jövőt.
 
 A projektről
 
@@ -16,9 +16,9 @@ Projekt céljai
 - Történelmi események megismerése.
 - Érdekességek bemutatása.
 - Prezentáció készítése Google Diákban.
-- Egy maximum 10 perces videó elkészítése.
+- Maximum 10 perces videó elkészítése.
 
-👥 Csapattagok
+Csapattagok
 
 - Draka Vadim
 - Nagy Roland
@@ -39,14 +39,11 @@ Használt eszközök
 - GIMP / Adobe Photoshop – logótervezés
 - Videószerkesztő – videó elkészítése
 
-📂 Projekt felépítése
+Projekt felépítése
 
 - "docs/" – Dokumentáció
 - "logo/" – Csapatlogó
 - "presentation/" – Prezentáció
 - "video/" – Videó és forgatókönyv
 
-
 BOSSOK – Discover the Past. Shape the Future.
-
-Fedezd fel a múltat. Formáld a jövőt.
