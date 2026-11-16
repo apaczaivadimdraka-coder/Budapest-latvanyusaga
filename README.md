@@ -2,53 +2,65 @@
   <img src="logo/BOSSOK (1).png" width="225">
 </p>
 
-<h1>Budapest látványosságai</h1>
+<div align="center">
 
-BOSSOK Team
+# BOSSOK
 
-Szlogen: Discover the Past. Shape the Future.
+## Budapest történelmi látványosságai
 
-Magyarul: Fedezd fel a múltat. Formáld a jövőt.
+**Discover the Past. Shape the Future.**
 
-A projektről
+Fedezd fel a múltat. Formáld a jövőt.
 
-A projekt célja Budapest történelmi és kulturális látványosságainak bemutatása és elemzése.
+</div>
 
-Projekt céljai
+---
 
-- Budapest híres látványosságainak kutatása.
-- Történelmi események megismerése.
-- Érdekességek bemutatása.
-- Prezentáció készítése Google Diákban.
-- Maximum 10 perces videó elkészítése. 
+## A projektről
 
-Csapattagok
+A projekt célja Budapest történelmi látványosságainak kutatása, elemzése és bemutatása. A munka során megvizsgáljuk a kiválasztott helyek történelmét, jelenlegi állapotát és érdekességeit.
 
-- Draka Vadim
-- Nagy Roland
-- Papp Bertalan
+## Csapattagok
 
-Projekt ütemezése
-
-| Időszak | Feladat |
+| Név | Feladat |
 |---|---|
-| November 16–20. | Csapatnév, szlogen és logó |
-| Következő szakasz | Kutatás és elemzés |
-| Következő szakasz | Prezentáció elkészítése |
-| Utolsó szakasz | Videó elkészítése |
+| Draka Vadim | Projektmenedzsment, kutatás |
+| Nagy Roland | Kutatás |
+| Papp Bertalan | Kutatás |
 
-Használt eszközök
+## Projektfeladatok
 
-- GitHub – projektmenedzsment és dokumentáció
-- Google Slides – prezentáció
-- GIMP / Adobe Photoshop – logótervezés
-- Videószerkesztő – videó elkészítése
+- Csoportnév, szlogen és logó elkészítése
+- Budapest történelmi látványosságainak kutatása
+- Prezentáció készítése
+- Bemutató videó készítése
+- Projekt dokumentációja GitHubon
 
-Projekt felépítése
+## Projekt követelményei
 
-- "docs/" – Dokumentáció
-- "logo/" – Csapatlogó
-- "presentation/" – Prezentáció
-- "video/" – Videó és forgatókönyv
+| Feladat | Követelmény |
+|---|---|
+| Prezentáció | Maximum 10 perc |
+| Videó | Maximum 10 perc |
+| Dokumentáció | GitHub |
 
-BOSSOK – Discover the Past. Shape the Future.
+## Projektstruktúra
+
+```text
+Budapest-latvanyusaga/
+│
+├── docs/
+│   ├── project-plan.md
+│   ├── research.md
+│   └── sources.md
+│
+├── logo/
+│   └── logo.png
+│
+├── presentation/
+│   └── presentation-link.md
+│
+├── video/
+│   └── video-plan.md
+│
+└── README.md
