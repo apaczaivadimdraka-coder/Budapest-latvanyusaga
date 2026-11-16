@@ -1,13 +1,17 @@
-<h1>Projektmenedzsment – BOSSOK</h1>
+# PROJECT PLAN
+## Budapest történelmi látványosságai
 
-<h2>1. Projekt adatai</h2>
+**Team:** BOSSOK  
+**Slogan:** Discover the Past. Shape the Future.  
+**Magyarul:** Fedezd fel a múltat. Formáld a jövőt.
 
-- Projekt neve: Budapest látványosságai
-- Csapat neve: BOSSOK
-- Szlogen: Discover the Past. Shape the Future.
-- Magyarul: Fedezd fel a múltat. Formáld a jövőt.
-- 
-<h2>2. Csapattagok</h2>
+---
+
+## 1. Projekt célja
+
+Budapest történelmi látványosságainak kutatása, elemzése és bemutatása. A projekt célja a kiválasztott helyek történelmének, jelenlegi állapotának és érdekességeinek megismertetése.
+
+## 2. Csapattagok
 
 | Név | Feladat |
 |---|---|
@@ -15,48 +19,43 @@
 | Nagy Roland | Kutatás |
 | Papp Bertalan | Kutatás |
 
-<h2>3. Projekt célja</h2>
+## 3. Használt eszközök
 
-Budapest történelmi látványosságainak bemutatása, történelmük, jelenlegi állapotuk és érdekességeik elemzése.
+| Eszköz | Felhasználás |
+|---|---|
+| GitHub | Projektmenedzsment és dokumentáció |
+| Google Diák | Prezentáció készítése |
+| Videószerkesztő | Videó készítése |
+| Internet | Kutatás és információgyűjtés |
 
-<h2>4. Projekt feladatai</h2>
-
-- Csapatnév és szlogen létrehozása.
-- Logó megtervezése.
-- Történelmi kutatás.
-- Prezentáció elkészítése.
-- Maximum 10 perces videó elkészítése.
-  
-<h2>5. Ütemezés</h2>
+## 4. Projektütemezés
 
 | Időszak | Feladat |
 |---|---|
-| November 16–20. | Csapatnév, szlogen és logó |
+| November 16–20. | Csoportnév, szlogen és logó elkészítése |
 | Következő szakasz | Kutatás és elemzés |
 | Következő szakasz | Prezentáció elkészítése |
 | Utolsó szakasz | Videó elkészítése |
 
-<h2>6. Projekt állapota</h2>
+## 5. Feladatok állapota
 
-Jelenlegi állapot: Folyamatban
+| Feladat | Állapot |
+|---|---|
+| Csoportnév kiválasztása | Kész |
+| Szlogen megalkotása | Kész |
+| Logó megtervezése | Folyamatban |
+| GitHub-dokumentáció | Folyamatban |
+| Kutatás és elemzés | Tervezett |
+| Prezentáció | Tervezett |
+| Videó | Tervezett |
 
-Elkészült:
-- Csapatnév: BOSSOK
-- Szlogen: Discover the Past. Shape the Future.
+## 6. Elvárt eredmények
 
-Folyamatban:
-- GitHub dokumentáció
-- Projektmenedzsment
+- Egyedi csoportnév, szlogen és logó.
+- Maximum 10 perces prezentáció Google Diákban.
+- Maximum 10 perces videó.
+- A projekt dokumentációja GitHubon.
 
-Tervezett:
-- Csapatlogó megtervezése
-- Történelmi kutatás
-- Prezentáció elkészítése
-- Videó elkészítése
-  
-<h2>7. Használt eszközök</h2>
+---
 
-- GitHub
-- Google Slides
-- GIMP / Photopea
-- Videószerkesztő
+**BOSSOK Team**
