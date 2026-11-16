@@ -38,6 +38,20 @@ Utolsó szakasz| Videó
 
 Jelenlegi állapot: Folyamatban
 
+Elkészült:
+- Csapatnév: BOSSOK
+- Szlogen: Discover the Past. Shape the Future.
+
+Folyamatban:
+- GitHub dokumentáció
+- Projektmenedzsment
+
+Tervezett:
+- Csapatlogó megtervezése
+- Történelmi kutatás
+- Prezentáció elkészítése
+- Videó elkészítése
+- 
 7. Használt eszközök
 
 - GitHub
