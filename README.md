@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo/logo.png" width="250">
+</p>
+
 Budapest látványosságai
 
 BOSSOK Team
