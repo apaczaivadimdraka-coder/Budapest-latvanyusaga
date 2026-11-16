@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo/BOSSOK (1).png" width="150">
+  <img src="logo/BOSSOK (1).png" width="225">
 </p>
 
 Budapest látványosságai
