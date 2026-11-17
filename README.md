@@ -25,7 +25,7 @@ A projekt célja Budapest történelmi látványosságainak kutatása, elemzése
 | Név | Feladat |
 |---|---|
 | Draka Vadim | Projektmenedzsment, kutatás |
-| Nagy Roland | Kutatás |
+| Nagy Roland | Kutatás, Boss |
 | Papp Bertalan | Kutatás |
 
 ## Projektfeladatok
