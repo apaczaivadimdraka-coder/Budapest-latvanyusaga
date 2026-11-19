@@ -3,11 +3,8 @@
 
 ## Research sources
 
-- Parlament: https://www.parlament.hu/
 - Budai Vár: https://mnm.hu/
-- Széchenyi Lánchíd: https://www.budapestinfo.hu/
-- Hősök tere: https://www.budapestinfo.hu/
-- Szent István-bazilika: https://bazilikabudapest.hu/
+- https://zsidai.com/hu/a-budai-var-tortenete/
 
 ## Image sources
 
