@@ -4,7 +4,7 @@
 ## Research sources
 
 - Budai Vár: https://mnm.hu/
-- https://zsidai.com/hu/a-budai-var-tortenete/
+- Budai Vár Története: https://zsidai.com/hu/a-budai-var-tortenete/
 
 ## Image sources
 
